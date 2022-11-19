@@ -5,7 +5,7 @@ import readDocs from "../../../static/img/readDocs.png";
 
 const GettingStared = () => {
   return (
-    <div style={{ padding: "80px 40px" }}>
+    <div style={{ padding: "80px 40px", backgroundColor: "white" }}>
       <h2
         style={{
           fontSize: "25px",

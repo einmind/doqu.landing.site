@@ -58,7 +58,7 @@ const Features = () => {
   }, []);
 
   return (
-    <div style={{ textAlign: "center" }}>
+    <div style={{ textAlign: "center",  backgroundColor: "white",}}>
       <div
         style={{
           position: "sticky",
